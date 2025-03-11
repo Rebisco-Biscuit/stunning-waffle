@@ -66,4 +66,6 @@ Solve the 0/1 Knapsack Problem using Dynamic Programming.
 Dijkstra’s Algorithm (Programiz) 
 Dynamic Programming Intro (Khan Academy) 
 ___
-Extra Resources & Practice Platforms Leetcode (Leetcode DSA Questions) – Great for coding practice. HackerRank (HackerRank Data Structures) – Beginner-friendly problems. GeeksforGeeks (GFG DSA Practice) – Has tons of explanations.
+Extra Resources & Practice Platforms Leetcode (Leetcode DSA Questions) – Great for coding practice. 
+HackerRank (HackerRank Data Structures) – Beginner-friendly problems. 
+GeeksforGeeks (GFG DSA Practice) – Has tons of explanations.
