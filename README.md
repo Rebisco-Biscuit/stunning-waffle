@@ -5,7 +5,7 @@ Hey god... its me again (DSA pt2) <br />
 
 Anyway, I'm practicing ahead so that I can breeze through DSA this summer cause failing is not it, I dilly-dally'ed way too much and failed so here I am. <br />
 
-That aside, the practices are from chatgpt bc I'm too lazy to find C language related problems that'll cater my needs and some are just a waste of my time and won't help me any better. <br />
+That aside, the practices are from chatgpt bc I'm too lazy to find C language related problems that'll cater my needs and some are just a headache and I'd end up looking up the answers. <br />
 Whatever though. Here's the agenda:
 ___
 ### Week 1: C Fundamentals & Complexity Analysis <br />
