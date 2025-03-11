@@ -1,6 +1,7 @@
 /* 
 Reverse an Array Using Pointers
 Write a function that reverses an integer array in place using pointers.
+
 void reverseArray(int* arr, int size);
 
 U [2025 MAR 11]
