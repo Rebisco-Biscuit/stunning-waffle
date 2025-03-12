@@ -1,7 +1,7 @@
 
 
 # stunning-waffle
-Hey god... its me again (DSA pt2) <br />
+Hey God... its me again (DSA pt2) <br />
 
 Anyway, I'm practicing ahead so that I can breeze through DSA this summer cause failing is not it, I dilly-dally'ed way too much and failed so here I am. <br />
 
