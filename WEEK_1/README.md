@@ -7,7 +7,7 @@ U - answered on the day but overdue for days <br />
 - [x] Day 2: Swapping two integers using function pointers. <b> A [2025 Mar 11] - FSwap.c </b><br />
         : Advanced - Using qsort() to sort an array in descending order.
 - [ ] Day 3: Dynamic Memory Allocation & Structs. <br />
-        : Problem 1 - Write a function that dynamically allocates an integer array of size n, fills it with values from 1 to n, prints them, and then frees the memory. <br />
-        : Problem 2 - Modify Problem 1 to allow the user to increase the array size using realloc(), appending new values to the end. <br />
+        : Problem 1 - Write a function that dynamically allocates an integer array of size n, fills it with values from 1 to n, prints them, and then frees the memory. <b> A [2025 MAR 12] </b> <br />
+        : Problem 2 - Modify Problem 1 to allow the user to increase the array size using realloc(), appending new values to the end. <b> A [2025 MAR 12] - DMA.c </b><br /> 
         : Problem 3 - Dynamically allocate memory for a student, store values, print the student’s info, and free the memory. <br />
         : Advanced - Write a program that dynamically creates an array of students, stores multiple students, and prints their details. <br />
