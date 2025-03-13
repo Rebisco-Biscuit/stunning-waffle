@@ -11,7 +11,7 @@ U - answered on the day but overdue for days <br />
         / : Problem 2 - Modify Problem 1 to allow the user to increase the array size using realloc(), appending new values to the end. <b> A [2025 MAR 12] - DMA.c </b><br /> 
         / : Problem 3 - Dynamically allocate memory for a student, store values, print the student’s info, and free the memory. <b> A [2025 MAR 12] - Structs.c </b><br />
         / : Advanced - Write a program that dynamically creates an array of students, stores multiple students, and prints their details. <b> A [2025 MAR 12] - Structs2.c </b> <br />
-- [ ] Day 4: Dynamic Memory & More Pointers
+- [ ] Day 4: Dynamic Memory & More Pointers. <br />
           : F 1 - Write a function int** create2DArray(int rows, int cols) that dynamically allocates a rows x cols integer matrix and initializes each element to (row_index + col_index). <br />
           : F 2 - Write a function void transposeMatrix(int** matrix, int rows, int cols) that transposes a dynamically allocated matrix (convert MxN into NxM). <br />
           : F 3 - Write a function int** createJaggedArray(int rows, int* colSizes) that creates a jagged 2D array where each row can have a different number of columns based on colSizes. <br />
