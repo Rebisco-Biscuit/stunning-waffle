@@ -11,7 +11,11 @@ void freeMem(int **arr, int rows);
 void transposeMatrix(int** matrix, int rows, int cols);
 
 int main() {
-    int rows = 2, cols = 3;
+    //int rows = 2, cols = 3;
+    int rows, cols;
+    printf("Enter number of rows and columns: ");
+    scanf("%d %d", &rows, &cols);
+    
     int **myArr = create2DArray(rows,cols);
     
     if(myArr == NULL) { printf("Couldn't create matrix."); }
@@ -75,9 +79,10 @@ int** create2DArray(int rows, int cols) {
     
     for(int i=0; i<rows; i++) {
         for(int j=0; j<cols; j++) { 
-            arr[i][j] = i+j;
+            //arr[i][j] = i+j;
+            printf("Enter data for row %d, column %d: ", i, j);
+            scanf("%d", &arr[i][j]);
         }
     }
-    
     return arr;
 }
